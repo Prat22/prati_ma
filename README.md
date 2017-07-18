@@ -1,2 +1,2 @@
 # prati_ma
-sample repository
+another sample repository
